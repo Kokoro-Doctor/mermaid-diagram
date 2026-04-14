@@ -1,16 +1,16 @@
 ```mermaid
 %%{init: {
   'themeVariables': { 
-    'fontSize': '20px'
+    'fontSize': '12px'
   },
   'flowchart': {
-    'nodeSpacing': 50,
-    'rankSpacing': 60,
+    'nodeSpacing': 20,
+    'rankSpacing': 40,
     'diagramPadding': 20
   }
 }}%%
 
-flowchart LR
+flowchart TD
     subgraph In["Input"]
         FB["file_bytes"]
         FN["filename"]
