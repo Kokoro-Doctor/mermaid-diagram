@@ -1,11 +1,11 @@
 ```mermaid
 %%{init: {
   'themeVariables': { 
-    'fontSize': '20px'
+    'fontSize': '17px'
   },
   'flowchart': {
-    'nodeSpacing': 50,
-    'rankSpacing': 60,
+    'nodeSpacing': 30,
+    'rankSpacing': 50,
     'diagramPadding': 40
   }
 }}%%
